@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.baomidou:mybatis-plus-boot-starter:Latest Version">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mavenRepository/com/baomidou/mybatis-plus-boot-starter/Latest Version/mybatis-plus-boot-starter-Latest Version.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../mavenRepository/com/baomidou/mybatis-plus-boot-starter/Latest Version/mybatis-plus-boot-starter-Latest Version-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../mavenRepository/com/baomidou/mybatis-plus-boot-starter/Latest Version/mybatis-plus-boot-starter-Latest Version-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
